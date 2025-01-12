@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\LENOVO\OneDrive\桌面\课设\课设\main.c(595,40): warning C4020: “FlushConsoleInputBuffer”: 实参太多
+C:\Users\LENOVO\OneDrive\桌面\课设\课设\main.c(1130,40): warning C4020: “FlushConsoleInputBuffer”: 实参太多
+C:\Users\LENOVO\OneDrive\桌面\课设\课设\main.c(258,19): warning C4101: “temp_w”: 未引用的局部变量
+  课设.vcxproj -> C:\Users\LENOVO\OneDrive\桌面\课设\x64\Debug\课设.exe
